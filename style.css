@@ -3,6 +3,11 @@
     margin-top: 0;
 }
 
+html{
+    overflow-x: hidden; /*tirando a barra de rolagem*/
+    overflow-y: hidden;
+}
+
 main{
     display: flex;
     width: 100vw;

@@ -41,6 +41,7 @@ button{
 }
 
 .resultado {
+    text-align: center;
     height: 100px;
     width: 180px;
     border: 2px solid black;
